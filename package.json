@@ -1,0 +1,26 @@
+{
+  "name": "serve-instructors-exps2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tomwolverine/server-instructors-exps2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tomwolverine/server-instructors-exps2/issues"
+  },
+  "homepage": "https://github.com/Tomwolverine/server-instructors-exps2#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "convert-csv-to-json": "0.0.13",
+    "cors": "^2.8.4",
+    "express": "^4.16.3"
+  }
+}
